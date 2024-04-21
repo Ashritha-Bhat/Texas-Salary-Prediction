@@ -1,2 +1,9 @@
 # Texas-Salary-Prediction
 Texas Salary Prediction
+
+In the Texas Salary Prediction project, the goal is to develop a model that can accurately predict salaries based on various features and attributes specific to job postings in Texas. The dataset likely includes information such as job title, years of experience, education level, skills required, industry, location, and possibly others. Through data analysis, feature engineering, and machine learning techniques, the project aims to build a predictive model that can assist job seekers, employers, and policymakers in understanding salary trends and making informed decisions related to compensation. By leveraging data-driven insights, the project seeks to improve transparency, fairness, and efficiency in the job market within the state of Texas.
+
+
+The project aims to forecast salaries based on various attributes within job postings from Texas government agencies. The dataset encompasses details such as agency codes and names, employee names, job titles, ethnicity, gender, employment status, hire dates, hourly rates, hours per week, monthly and annual salaries, state numbers, duplication status, involvement in multiple full-time jobs, combined job roles, and summed annual salaries. By analyzing these factors, the project seeks to provide insights into salary trends and enhance transparency within the Texas job market.
+
+ Project navigated a thorough journey through data preprocessing, exploratory analysis, and model development. We meticulously handled challenges like label encoding and outliers, ensuring data integrity. Exploring regression algorithms, we found Linear Regression to yield the best results with an impressive 92% accuracy. This journey not only provided insights into salary determinants but also showcased the power of data-driven decision-making in optimizing compensation practices within Texas government agencies.
